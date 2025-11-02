@@ -11,6 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Madeiane&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Madeiane&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiane&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-profile-ff69b4)](https://app.hackthebox.com/profile/overview)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
